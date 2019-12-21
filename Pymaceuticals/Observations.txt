@@ -1,0 +1,8 @@
+1. Capomulin and Ramicane are most effective at reducing tumor volumn.
+
+2. Capomulin and Ramicane also give the highest survival rate compare to other drugs
+
+3. Ketapril is the least effective drug. As matter of fact, it made tumor much larger.
+ 
+4. Interestingly, although Ketapril give the largest increase to tumor volumn, it does not produce the worst survival rate.
+Propriva gives the worst survival rate out of all the drugs.
